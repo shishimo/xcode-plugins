@@ -1,0 +1,15 @@
+[submodule "XVim"]
+	path = XVim
+	url = https://github.com/JugglerShu/XVim.git
+[submodule "XToDo"]
+	path = XToDo
+	url = https://github.com/trawor/XToDo.git
+[submodule "SCXcodeMiniMap"]
+	path = SCXcodeMiniMap
+	url = https://github.com/stefanceriu/SCXcodeMiniMap.git
+[submodule "XAlign"]
+	path = XAlign
+	url = https://github.com/qfish/XAlign.git
+[submodule "VVDocumenter-Xcode"]
+	path = VVDocumenter-Xcode
+	url = https://github.com/onevcat/VVDocumenter-Xcode.git
